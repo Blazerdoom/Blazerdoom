@@ -30,18 +30,14 @@ I'm a Computer Science (Game Development) student at BINUS University in Jakarta
 <table width="100%">
   <tr>
     <th width="50%" align="left">Ring Out</th>
-    <th width="50%" align="left">The Eye</th>
   </tr>
   <tr>
     <td valign="top"><img src="images/g3-knock.gif" width="100%" alt="Ring Out gameplay"></td>
-    <td valign="top"><img src="images/eye-chase.gif" width="100%" alt="The Eye gameplay"></td>
   </tr>
   <tr>
     <td valign="top">You stand on a round platform. Enemies drop in and push toward you. You have no weapon. Your dash is your attack and your dodge, on the same button.<br><sub>Unity 6 · Solo</sub></td>
-    <td valign="top">A short 2D horror game. You wake up in your bedroom, go to sleep, and a nightmare starts. Something is chasing you, and you have to keep running.<br><sub>Unity 2021.3.45f2 · 2 people</sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Blazerdoom/Ring-Out"><img src="https://img.shields.io/badge/Read_more-333333?style=for-the-badge&logo=github&logoColor=white" alt="Read more about Ring Out"></a></td>
-    <td><a href="https://github.com/Blazerdoom/The-EYE"><img src="https://img.shields.io/badge/Read_more-333333?style=for-the-badge&logo=github&logoColor=white" alt="Read more about The Eye"></a></td>
   </tr>
 </table>
