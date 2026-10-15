@@ -2,7 +2,7 @@
 
 Junior gameplay programmer, Unity and C#.
 
-I'm a 5th semester Computer Science (Game Development) student at BINUS University in Jakarta. The part of making games I like most is what makes them feel good to play: movement, physics, and the feedback you get when something hits.
+I'm a 5th semester Computer Science (Game Development) student at BINUS University in Jakarta. Im heavily inspired by every feature I come across everyday I play games
 
 **Contact:** [milkhalist@gmail.com](mailto:milkhalist@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ben-surya-801465326)
 
